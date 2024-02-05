@@ -11,7 +11,7 @@ public class BasicSwitchBreaks {
                 System.out.println("ten");
                 break;
             case 20:
-                System.out.println("twenty")
+                System.out.println("twenty");
                 break;
             default:
                 System.out.println("default");
